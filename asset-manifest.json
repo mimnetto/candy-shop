@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/candy-shop/static/css/main.f855e6bc.css",
+    "main.js": "/candy-shop/static/js/main.89e06ad0.js",
+    "static/js/453.61c12fc3.chunk.js": "/candy-shop/static/js/453.61c12fc3.chunk.js",
+    "static/media/logo.svg": "/candy-shop/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/candy-shop/index.html",
+    "main.f855e6bc.css.map": "/candy-shop/static/css/main.f855e6bc.css.map",
+    "main.89e06ad0.js.map": "/candy-shop/static/js/main.89e06ad0.js.map",
+    "453.61c12fc3.chunk.js.map": "/candy-shop/static/js/453.61c12fc3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.89e06ad0.js"
+  ]
+}
